@@ -1,7 +1,5 @@
 # About the Participation test
-Write a script to display an image of cellphone wrt its color palatte.
-
-Display 4 buttons with colors: black, gold, blue and rose gold. On click of button, change its respective image.
+Display 4 buttons with colors: black, gold, blue and rose gold. On click of button, display the image that matches the color.
 
 You can find images in the **images** folder of the repo.
 
