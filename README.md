@@ -1,5 +1,5 @@
 # About the Participation test
-Display 4 buttons with colors: black, gold, blue and rose gold. On click of button, display the image that matches the color.
+Display 4 buttons with Values: black, gold, blue and rose gold. On click of button, display the image that matches the color.
 
 You can find images in the **images** folder of the repo.
 
