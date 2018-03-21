@@ -4,4 +4,4 @@ Display 4 buttons with values: black, gold, blue and rose gold. On click of butt
 You can find images in the **images** folder of the repo.
 
 # Submission
-Create a public GitHub repo with your code and share the url with dhawal, vicky(https://github.com/vickykamble/) or karina (if possible host it as a [GitHub Pages branch](https://pages.github.com/) and share that url).
+Create a public GitHub repo with your code and share the url with dhawal, vicky or karina (if possible host it as a [GitHub Pages branch](https://pages.github.com/) and share that url).
