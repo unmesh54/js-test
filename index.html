@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>JS Test</title>
+	<style>
+		.btn-wrap{position: absolute;top: 0;left: 0;}
+		img{margin: 30px;}
+	</style>
+</head>
+<body>
+	<div class="btn-wrap">
+		<button data-color="black" onclick="showImage(this)" id="button">Black</button>
+		<button data-color="blue" onclick="showImage(this)" id="button">Blue</button>
+		<button data-color="gold" onclick="showImage(this)" id="button">Gold</button>
+		<button data-color="rose-gold" onclick="showImage(this)" id="button">Rose Gold</button>
+	</div>
+		<img id="img" src="images/black.jpeg">
+	
+	<script type="text/javascript">
+		function showImage(e){
+			var x = document.getElementById('img');
+			x.src = "";
+			x.src = "images/" + e.dataset.color + ".jpeg";
+}
+
+	</script>
+</body>
+</html>
